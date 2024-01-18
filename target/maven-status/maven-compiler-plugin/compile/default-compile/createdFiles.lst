@@ -1,0 +1,4 @@
+com\estudomvc\app\dao\AgendaDAO.class
+com\estudomvc\app\dao\FabricaDAO.class
+com\estudomvc\app\modelo\agenda\JavaBeans.class
+com\estudomvc\app\controlador\agenda\ControladorAgenda.class
